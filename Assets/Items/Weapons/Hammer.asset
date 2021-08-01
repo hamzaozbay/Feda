@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd9151ad9281484449cdcb62f5ae6a20, type: 3}
+  m_Name: Hammer
+  m_EditorClassIdentifier: 
+  itemName: "Ezici \xC7eki\xE7"
+  itemDescription: "\xC7ok g\xFC\xE7l\xFC ezici bir \xE7eki\xE7."
+  icon: {fileID: 21300000, guid: 8e544e1bdd6e6d7428132e8ce616017c, type: 3}
+  isDefaultItem: 0
+  pickupPrefab: {fileID: 855976515287056868, guid: 53cc61446ea90bf428395076c7895103, type: 3}
+  soulValue: 8
+  equipSlot: 3
+  mesh: {fileID: 3982054649522097481, guid: 875a88f6e4ad3d34aaa2eca3fd4b942d, type: 3}
+  coveredMeshRegions: 
+  damageModifier: 18
+  armorModifier: 0
+  range: 2.25
+  attackSpeed: 1
+  animController: {fileID: 22100000, guid: fa2e8f50bd2eead43baec13116636c8f, type: 2}
+  attackClips:
+  - {fileID: 392004104182468325, guid: b24d4248b3cbe4349807f5b0a86b8b14, type: 3}
+  - {fileID: -5381947121337201552, guid: b24d4248b3cbe4349807f5b0a86b8b14, type: 3}

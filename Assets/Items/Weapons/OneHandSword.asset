@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd9151ad9281484449cdcb62f5ae6a20, type: 3}
+  m_Name: OneHandSword
+  m_EditorClassIdentifier: 
+  itemName: "Keskin K\u0131l\u0131\xE7"
+  itemDescription: "\xC7ok g\xFC\xE7l\xFC demir ile d\xF6v\xFClm\xFC\u015F keskin
+    k\u0131l\u0131\xE7."
+  icon: {fileID: 21300000, guid: b207a876733bfed49a809378180c1c6d, type: 3}
+  isDefaultItem: 0
+  pickupPrefab: {fileID: 1145772933416709532, guid: 8249d5a0d01049248ab27f361b63254f, type: 3}
+  soulValue: 9
+  equipSlot: 3
+  mesh: {fileID: 6423949531330428751, guid: 0f2a9f09c451b844b8e8ce474d671cf3, type: 3}
+  coveredMeshRegions: 
+  damageModifier: 15
+  armorModifier: 0
+  range: 1.75
+  attackSpeed: 0.65
+  animController: {fileID: 22100000, guid: fa2e8f50bd2eead43baec13116636c8f, type: 2}
+  attackClips:
+  - {fileID: 392004104182468325, guid: b24d4248b3cbe4349807f5b0a86b8b14, type: 3}
+  - {fileID: -4640589767914807673, guid: b24d4248b3cbe4349807f5b0a86b8b14, type: 3}

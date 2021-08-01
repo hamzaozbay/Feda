@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd9151ad9281484449cdcb62f5ae6a20, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  itemName: "B\xFCy\xFCk K\u0131l\u0131\xE7"
+  itemDescription: "Gladyat\xF6rlerin g\xFC\xE7l\xFC demirden yap\u0131lm\u0131\u015F
+    k\u0131l\u0131c\u0131."
+  icon: {fileID: 21300000, guid: 3679560764a48db46847ec838c9b13e9, type: 3}
+  isDefaultItem: 0
+  pickupPrefab: {fileID: 3358679386123265847, guid: ef035e44f809b9c4b809583c9a3d038f, type: 3}
+  soulValue: 18
+  equipSlot: 3
+  mesh: {fileID: 1293051285026106899, guid: 418b704dc2de9e546ac47cbdd6ac397d, type: 3}
+  coveredMeshRegions: 
+  damageModifier: 20
+  armorModifier: 0
+  range: 2.5
+  attackSpeed: 0.8
+  animController: {fileID: 22100000, guid: 3ddc5c9e039610b438b53f69b13903ee, type: 2}
+  attackClips:
+  - {fileID: 976070903275576435, guid: b24d4248b3cbe4349807f5b0a86b8b14, type: 3}
+  - {fileID: -5381947121337201552, guid: b24d4248b3cbe4349807f5b0a86b8b14, type: 3}

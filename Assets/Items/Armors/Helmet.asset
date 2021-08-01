@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 693fb1e0fff3be24781f98fcf21b84e2, type: 3}
+  m_Name: Helmet
+  m_EditorClassIdentifier: 
+  itemName: "Sava\u015F Mi\u011Fferi"
+  itemDescription: "\xC7ok g\xFC\xE7l\xFC demirden yap\u0131lm\u0131\u015F sava\u015F
+    mi\u011Fferi."
+  icon: {fileID: 21300000, guid: effc069ef5f1be841b4fa0b5f4b96c77, type: 3}
+  isDefaultItem: 0
+  pickupPrefab: {fileID: 2590830070167721331, guid: ec1162396e7bab546845cdebee88a630, type: 3}
+  soulValue: 13
+  equipSlot: 0
+  mesh: {fileID: 7764725162813888563, guid: bb64f2c59a7e85948a44c747a329ed6c, type: 3}
+  coveredMeshRegions: 
+  damageModifier: 0
+  armorModifier: 15

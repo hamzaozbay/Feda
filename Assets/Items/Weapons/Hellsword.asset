@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd9151ad9281484449cdcb62f5ae6a20, type: 3}
+  m_Name: Hellsword
+  m_EditorClassIdentifier: 
+  itemName: "Cehennem K\u0131l\u0131c\u0131"
+  itemDescription: "Cehennem ate\u015Finde d\xF6v\xFClm\xFC\u015F \xE7ok g\xFC\xE7l\xFC
+    bir k\u0131l\u0131\xE7."
+  icon: {fileID: 21300000, guid: 5eccfdd20c8e6394997480361bce385d, type: 3}
+  isDefaultItem: 0
+  pickupPrefab: {fileID: 2929406645706434899, guid: 674efaf87a32bc54c81d80f98504cf9b, type: 3}
+  soulValue: 24
+  equipSlot: 3
+  mesh: {fileID: 1222678108281170212, guid: b297835b6a2c1664e8102efcfa163159, type: 3}
+  coveredMeshRegions: 
+  damageModifier: 25
+  armorModifier: 0
+  range: 3
+  attackSpeed: 0.9
+  animController: {fileID: 22100000, guid: 3ddc5c9e039610b438b53f69b13903ee, type: 2}
+  attackClips:
+  - {fileID: 976070903275576435, guid: b24d4248b3cbe4349807f5b0a86b8b14, type: 3}
+  - {fileID: -5381947121337201552, guid: b24d4248b3cbe4349807f5b0a86b8b14, type: 3}
